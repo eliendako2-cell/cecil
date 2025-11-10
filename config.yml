@@ -1,15 +1,14 @@
-title: "Grace Vayisiriria"
+title: "Elie ndako"
 baseline: "Développeur Etudiant passionné"
 description: "Développeur passionnée par la technologie, les projets innovants et le partage de connaissances."
-
 params:
-  author: "Grace VayisiririaBlog"
-  github: "https://github.com/gracevayisiriria"
-  email: "grace@example.com"
+  author: "GraceVayisiririaBlog"
+  github: "https://github.com/elie ndako"
+  email: "elie@example.com"
   social:
     - name: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/gracevayisiriria"
+      url: "https://github.com/elie ndako"
     - name: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "#"
