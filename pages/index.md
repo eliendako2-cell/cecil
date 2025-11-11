@@ -124,11 +124,11 @@ layout: home
     <h2>Travaillons ensemble</h2>
     <p>Vous avez un projet en tête ? N'hésitez pas à me contacter !</p>
     <div class="cta-buttons">
-      <a href="mailto:grace@example.com" class="btn btn-primary">
+      <a href="" class="btn btn-primary">
         <i class="fas fa-envelope"></i>
         M'envoyer un email
       </a>
-      <a href="https://github.com/gracevayisiriria" class="btn btn-secondary" target="_blank">
+      <a href="" class="btn btn-secondary" target="_blank">
         <i class="fab fa-github"></i>
         Voir mon GitHub
       </a>
