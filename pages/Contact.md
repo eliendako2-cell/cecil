@@ -1,7 +1,7 @@
 # 📞 Contacts
 
 Merci de votre visite sur mon site !  
-Je suis **Grace vayisiriria**, développeur passionné par la technologie, la foi et les projets au service des communautés.
+Je suis **ELIE NDAKO**, développeur passionné par la technologie, la foi et les projets au service des communautés.
 
 N’hésitez pas à me contacter pour :
 - 💬 Discuter d’un projet ou d’une collaboration  
@@ -12,7 +12,7 @@ N’hésitez pas à me contacter pour :
 
 ## 💌 Me contacter
 
-📧 **Email :** [christienmigheri@gmail.com](mailto:migherichristien@gmail.com)  
+📧 **Email :** [mailto:eliendako2@gmail.com](mailto:eliendako2@gmail.com)  
 🌐 **Site web :** [https://migherichristien.github.io/MIGHERIChristien/](https://migherichristien.github.io/MIGHERIChristien/)  
 🐙 **GitHub :** [https://github.com/migherichristien](https://github.com/migherichristien)  
 
@@ -24,7 +24,7 @@ et je travaille sur divers projets visant à mettre la **technologie au service 
 
 ---
 
-> ✨ *“Le contact humain reste le plus beau des langages, même à l’ère du numérique.”* — Christien Migheri
+> ✨ *“Le contact humain reste le plus beau des langages, même à l’ère du numérique.”* — Elie ndako
 ```markdown
 You can highlight `inline code` with backticks.
 ```
